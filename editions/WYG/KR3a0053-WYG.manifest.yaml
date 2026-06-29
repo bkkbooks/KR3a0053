@@ -1,0 +1,64 @@
+canonical_identifier: bkk:krp/KR3a0053/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR3a0053/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 曾子全書
+  date: '2015-08-24 22:58:55.651250'
+  source:
+    repository: kanripo
+    path: KR3a0053
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3a0053_000-WYG.yaml, hash: 'sha256:a83f27eb8442cdfc87a1927485c1666f2b9bb99894fc9d0381c540513f0e5acc'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3a0053_000-WYG.markers.yaml, hash: 'sha256:ada2ac59ec7181999733ad9dbe20b6813dd2a76b6d9330b479ed3b8f8b6838bd'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3a0053_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 758
+  label: 曾子子思子全書原序三首
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3a0053_WYG_000-4a
+    span:
+    - body
+    - 758
+    - 1777
+  label: 曾子子思子全書進表
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3a0053_WYG_000-8a
+    span:
+    - body
+    - 1777
+    - 2396
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3a0053_WYG_000-11a
+    span:
+    - body
+    - 2396
+    - 17249
+  label: 曾子全书
+  type: section
+  level: 1
+hash: sha256:2a033c914b8142f5dfc9d633851a401526f87627aeb8aae0d131b489d327a272
