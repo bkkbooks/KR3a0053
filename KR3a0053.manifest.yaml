@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3a0053/v1
 canonical_location: https://kanripo.org/bkk/KR3a0053/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 曾子全書
   date: '2015-08-24 22:58:55.651250'
@@ -20,9 +20,9 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR3a0053_000.yaml, hash: 'sha256:474eb9a60e482e7843dd71a8e1818d4db66cd4fbe999cc5f8423add9ba1a0879'}
+  - {seq: 0, filename: KR3a0053_000.yaml, hash: 'sha256:b1d211bc7cdbf8b64f086df4bcd72e748e5110d2de58a43ee71f6815ce0127bf'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3a0053_000.markers.yaml, hash: 'sha256:54dc29364b3da8aa9dc1468ca90d89b37d36fb71ddd68638f04ea94e6f3706bb'}
+  - {seq: 0, role: markers, filename: assets/KR3a0053_000.markers.yaml, hash: 'sha256:8a2fd46fb6aec88d73c9ec31ed87334c9f7dd3c28eb72eb300f9c0901cb43854'}
 table_of_contents:
 - ref:
     seq: 0
@@ -64,4 +64,7 @@ table_of_contents:
   label: 曾子全书
   type: section
   level: 1
-hash: sha256:3c86b0f6d17116366ee02137fe67225c18c0a4176743bc84ab5d50ed0b7266bc
+hash: sha256:56b58079f16417224570db86f5adb09b90f11d9e877f0d6c286a63d6062ead3c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
