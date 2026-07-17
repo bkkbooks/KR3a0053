@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3a0053_000-WYG.yaml, hash: 'sha256:a83f27eb8442cdfc87a1927485c1666f2b9bb99894fc9d0381c540513f0e5acc'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3a0053_000-WYG.markers.yaml, hash: 'sha256:ada2ac59ec7181999733ad9dbe20b6813dd2a76b6d9330b479ed3b8f8b6838bd'}
+  - {seq: 0, role: markers, filename: assets/KR3a0053_000-WYG.markers.yaml, hash: 'sha256:cc3cc29510e84fc7b5948490ac324a8a95d0ffe4578ae42a794ad2182f31ea15'}
 table_of_contents:
 - ref:
     seq: 0
@@ -61,4 +61,4 @@ table_of_contents:
   label: 曾子全书
   type: section
   level: 1
-hash: sha256:2a033c914b8142f5dfc9d633851a401526f87627aeb8aae0d131b489d327a272
+hash: sha256:865a01d97167fce066b5c7de1a4f4a5f56175059417a07a7e9dbcc58e96e83fe
